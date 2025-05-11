@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VCBYdU/4R4BqSwXw1BX5izrvlkqKHZKgcsyxwtl4TZw=",
+  "Source": "MovieStore.Api",
+  "BasePath": "_content/MovieStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
